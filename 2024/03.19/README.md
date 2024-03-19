@@ -14,14 +14,16 @@
 
 - [x] github에 TIL 레파지토리 생성 및 vscode 연결
 - [x] TIL 간단한 양식 찾아보기, 첫 TIL 작성
+- [x] 20강 Redux 복습(1)
 
 ---
 
 ### 📚 Tomorrow's To do list
 
 - Udemy 강의 듣기
-  - 20강 Redux 복습
+  - 20강 Redux 복습(2)
   - 15강 HTTP 요청 보내기(ex. 데이터베이스 연결)
+  - 배열에서 제공하는 메서드 정리
 
 ---
 
