@@ -14,7 +14,7 @@
 
 ---
 
-### 📌 Next Week's To Do List
+### 📌 This Week's To Do List
 
 - 자바스크립트 모르는 개념 재정리
   - 배열에서 제공하는 메서드
